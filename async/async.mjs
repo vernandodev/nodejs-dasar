@@ -1,3 +1,5 @@
+// asycn await dengan modules (mjs)
+
 function samplePromise() {
     return Promise.resolve("Richo");
 }

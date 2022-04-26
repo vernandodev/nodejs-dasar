@@ -1,3 +1,5 @@
+// async await dengan javascript biasa (js)
+
 function samplePromise(){
     return Promise.resolve("Eko");
 }
