@@ -1,0 +1,23 @@
+{
+  "name": "belajar-nodejs-dasar",
+  "version": "1.0.0",
+  "description": "belajar node js dasar",
+  "main": "index",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vernandodev/belajar-nodejs-dasar.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "vernandodev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vernandodev/belajar-nodejs-dasar/issues"
+  },
+  "homepage": "https://github.com/vernandodev/belajar-nodejs-dasar#readme"
+}
